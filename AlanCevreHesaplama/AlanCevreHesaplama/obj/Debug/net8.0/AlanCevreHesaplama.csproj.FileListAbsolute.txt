@@ -1,0 +1,14 @@
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\bin\Debug\net8.0\AlanCevreHesaplama.exe
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\bin\Debug\net8.0\AlanCevreHesaplama.deps.json
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\bin\Debug\net8.0\AlanCevreHesaplama.runtimeconfig.json
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\bin\Debug\net8.0\AlanCevreHesaplama.dll
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\bin\Debug\net8.0\AlanCevreHesaplama.pdb
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\obj\Debug\net8.0\AlanCevreHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\obj\Debug\net8.0\AlanCevreHesaplama.AssemblyInfoInputs.cache
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\obj\Debug\net8.0\AlanCevreHesaplama.AssemblyInfo.cs
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\obj\Debug\net8.0\AlanCevreHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\obj\Debug\net8.0\AlanCevreHesaplama.dll
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\obj\Debug\net8.0\refint\AlanCevreHesaplama.dll
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\obj\Debug\net8.0\AlanCevreHesaplama.pdb
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\obj\Debug\net8.0\AlanCevreHesaplama.genruntimeconfig.cache
+C:\Users\Burak\source\repos\AlanCevreHesaplama\AlanCevreHesaplama\obj\Debug\net8.0\ref\AlanCevreHesaplama.dll
